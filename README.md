@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-NUS course projects: 
+NUS course projects: [EE5904 Neural Network](https://github.com/twilightxym/NUS-EE5904-Neural-Networks.git)
 <!--
 **twilightxym/twilightxym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
