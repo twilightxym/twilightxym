@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-NUS course projects: [EE5904 Neural Network](https://github.com/twilightxym/NUS-EE5904-Neural-Networks.git)
+NUS course projects: [EE5904 Neural Network](https://github.com/twilightxym/NUS-EE5904-Neural-Networks.git), [EE5731 Visual Computing](), [EE5907 Pattern Recognition](), [EE5104 Adaptive Ctrl Sys](), [EE5101 Linear System](), [EE5139 Information Theory](), [CEG5103 Wireless and Sensor Networks for IoT](), [EE5134 Optical comm & Networks]().
+
+
+
+
+
+
+
 <!--
 **twilightxym/twilightxym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
